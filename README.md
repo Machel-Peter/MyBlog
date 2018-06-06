@@ -41,9 +41,6 @@ v1.1.0更新日志2017-6-26：
 6、部分功能优化
 7、部分bug修正
 
-官方网址：http://www.lzcms.top 
-老张博客网址：http://www.phplaozhang.com 
-记得加友情链接
 
 ## 目录结构
 
